@@ -1,0 +1,18 @@
+Save this as .env file.
+
+SECRET_KEY = your_secret_key
+DEBUG = False
+PRODUCTION = True
+ALLOWED_HOSTS = localhost
+
+DB_NAME= db_name
+DB_PASSWORD= db_password
+DB_USER= db_user
+HOST= db_host
+PORT= db_port
+
+
+# Get key from https://coinmarketcap.com/api/
+
+TEST_KEY = 'b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c'
+PROD_KEY = 'production_key'-
